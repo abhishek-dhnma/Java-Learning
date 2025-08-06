@@ -1,4 +1,4 @@
-package IdentityHashMap;
+package IdentityHashmap;
 
 // Importing necessary Java utilities for HashMap, IdentityHashMap, and Map interface
 import java.util.HashMap;
